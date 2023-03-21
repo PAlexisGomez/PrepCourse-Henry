@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un rpoyecto de prueba
+Este es un proyecto de prueba
